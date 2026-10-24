@@ -1,0 +1,13 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+# Datos de ciudadanos, respaldos y credenciales: nunca al repositorio
+data/
+backups/
+.env
+*.json
+!package.json
+!package-lock.json
+*.xlsx
+*.pem
+.DS_Store
